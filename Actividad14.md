@@ -1,4 +1,4 @@
-# Actividad 14 Productos notables.
+# Actividad 14 Binomios.
 
 1. $(r-5)^2$ <br>
    $= r^2 - 10r + 25$ <br>
