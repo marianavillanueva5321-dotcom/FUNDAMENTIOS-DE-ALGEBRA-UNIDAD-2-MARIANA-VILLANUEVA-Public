@@ -243,3 +243,361 @@ $= (5n^3 + 7)(5n^3 - 7)$  <br>
 **80)** $2x^5 - 25x^3 + 63x = x(2x^4 - 25x^2 + 63) = x(2x^2 - 7)(x^2 - 9) = x(2x^2 - 7)(x - 3)(x + 3)$ <br>
 
 **81)** $5x^6 - 2x^4 + 10x^2 = x^2(5x^4 - 2x^2 + 10)$ <br>
+
+**81)** x − y = 0
+y = x <br>
+<img width="911" height="555" alt="image" src="https://github.com/user-attachments/assets/d5f587c6-7f69-4a91-a8a1-8689bf390fe8" />  <br>
+
+**82)** x + 4y = −8 <br>
+4y = −8 − x y = −8/4 − x/4 y = −2 − (1/4)x <br>
+
+<img width="1080" height="684" alt="image" src="https://github.com/user-attachments/assets/2612ecb2-6e95-4e07-a0c1-db8f2a867dc4" /> <br>
+
+**83)** 7x + y = 2 <br>
+
+y = 2 − 7x <br>
+
+<img width="1080" height="409" alt="image" src="https://github.com/user-attachments/assets/d32ef0f6-d2e7-4e25-b9ef-0c9040d260d7" /> <br>
+
+**84)** 2x + y = −1 <br>
+
+y = −2x − 1 <br>
+
+<img width="1080" height="659" alt="image" src="https://github.com/user-attachments/assets/8638f70d-ac6d-4266-b490-6a3a545de8aa" />
+<br>
+
+**85)** x − y = −1 <br>
+
+−y = −x − 1 y = x + 1<br>
+
+<img width="1080" height="399" alt="image" src="https://github.com/user-attachments/assets/220a10e9-5c98-4416-970c-fca4ff9aec0c" />
+<br>
+
+**86)** x + 5y = 0 <br>
+
+5y = 0 − x y = −(1/5)x <br>
+
+<img width="1080" height="529" alt="image" src="https://github.com/user-attachments/assets/a186355b-d07a-4fc1-8953-df185e67395b" /><br>
+
+**87)** 6x − 5y = 25 <br>
+
+−5y = 25 − 6x y = (6/5)x − 5 <br>
+
+<img width="1080" height="413" alt="image" src="https://github.com/user-attachments/assets/11f86c45-b755-42f8-a273-105ca03ce543" />
+<br>
+
+**88)** 7x + y = −3 <br>
+
+y = −3 − 7x <br>
+
+<img width="1080" height="492" alt="image" src="https://github.com/user-attachments/assets/6ee20bef-0ddc-4c66-bac7-b71c1d71bfeb" /> <br>
+
+### 92)
+
+$\displaystyle 10-8x = 6x+2(6x-8)$<br>
+$\displaystyle 10-8x = 6x+12x-16$<br>
+$\displaystyle -8x-12x-6x = -16-10$<br>
+$\displaystyle -26x = -26$<br>
+$\displaystyle x = \frac{-26}{-26} = 1$
+
+### 93)
+
+$\displaystyle 7+3n = -4+4(n+3)$<br>
+$\displaystyle 7+3n = -4+4n+12$<br>
+$\displaystyle 3n-4n = -4+12-7$<br>
+$\displaystyle -n = 1$<br>
+$\displaystyle n = -1$
+
+### 94)
+
+$\displaystyle 2+5x = 2(8x+1)$<br>
+$\displaystyle 2+5x = 16x+2$<br>
+$\displaystyle 5x-16x = 2-2$<br>
+$\displaystyle -11x = 0$<br>
+$\displaystyle x = \frac{0}{-11} = 0$
+
+### 95)
+
+$\displaystyle -1-3(1+5k) = -26+7k$<br>
+$\displaystyle -1-3-15k = -26+7k$<br>
+$\displaystyle -15k-7k = -26+3+1$<br>
+$\displaystyle -22k = -22$<br>
+$\displaystyle k = \frac{-22}{-22} = 1$
+
+### 96)
+
+$\displaystyle -20+x = 6x-5(6x-1)$<br>
+$\displaystyle -20+x = 6x-30x+5$<br>
+$\displaystyle x-6x+30x = 20+5$<br>
+$\displaystyle 25x = 25$<br>
+$\displaystyle x = 1$
+
+### 97)
+
+$\displaystyle \frac{493}{32}-\frac{13}{8}x = -\frac{7}{4}\left(-\frac{11}{6}x+\frac{29}{8}\right)$<br>
+$\displaystyle \frac{493}{32}-\frac{13}{8}x = \frac{77}{24}x-\frac{203}{32}$<br>
+$\displaystyle \text{MCM} = 96$<br>
+$\displaystyle 3(493)-12(13x) = 4(77x)-3(203)$<br>
+$\displaystyle 1479-156x = 308x-609$<br>
+$\displaystyle -156x-308x = -609-1479$<br>
+$\displaystyle -464x = -2088$<br>
+$\displaystyle x = \frac{2088}{464} = \frac{9}{2}$
+
+### 98)
+
+$\displaystyle \frac{5}{3}+x = -\frac{7}{6}\left(x-\frac{9}{5}\right)$<br>
+$\displaystyle \frac{5}{3}+x = -\frac{7}{6}x+\frac{63}{30}$<br>
+$\displaystyle \text{MCM} = 30$<br>
+$\displaystyle 10(5)+30(x) = 5(-7x)+1(63)$<br>
+$\displaystyle 50+30x = -35x+63$<br>
+$\displaystyle 30x+35x = 63-50$<br>
+$\displaystyle 65x = 13$<br>
+$\displaystyle x = \frac{13}{65} = \frac{1}{5}$
+
+### 99)
+
+$\displaystyle -\frac{96}{35}-\frac{4}{3}p = -\frac{24}{7}\left(\frac{14}{3}p-\frac{4}{5}\right)$<br>
+$\displaystyle -\frac{96}{35}-\frac{4}{3}p = -\frac{336}{21}p+\frac{96}{35}$<br>
+$\displaystyle -\frac{96}{35}-\frac{4}{3}p = -16p+\frac{96}{35}$<br>
+$\displaystyle \text{MCM} = 105$<br>
+$\displaystyle 3(-96)-35(4p) = -1680p+3(96)$<br>
+$\displaystyle -288-140p = -1680p+288$<br>
+$\displaystyle -140p+1680p = 288+288$<br>
+$\displaystyle 1540p = 576$<br>
+$\displaystyle p = \frac{576}{1540} = \frac{144}{385}$
+
+### 100)
+
+$\displaystyle -\frac{11}{4}\left(-\frac{1}{2}x+1\right) = -\frac{5}{4}+\frac{3}{8}x$<br>
+$\displaystyle \frac{11}{8}x-\frac{11}{4} = -\frac{5}{4}+\frac{3}{8}x$<br>
+$\displaystyle \text{MCM} = 8$<br>
+$\displaystyle 1(11x)-2(11) = -2(5)+1(3x)$<br>
+$\displaystyle 11x-22 = -10+3x$<br>
+$\displaystyle 11x-3x = -10+22$<br>
+$\displaystyle 8x = 12$<br>
+$\displaystyle x = \frac{12}{8} = \frac{3}{2}$
+
+### 101)
+
+$\displaystyle -\frac{3}{2}r-\frac{317}{48} = -\frac{19}{8}\left(r+\frac{10}{3}\right)$<br>
+$\displaystyle -\frac{3}{2}r-\frac{317}{48} = -\frac{19}{8}r-\frac{190}{24}$<br>
+$\displaystyle \text{MCM} = 48$<br>
+$\displaystyle 24(-3r)-1(317) = -6(19r)-2(190)$<br>
+$\displaystyle -72r-317 = -114r-380$<br>
+$\displaystyle -72r+114r = -380+317$<br>
+$\displaystyle 42r = -63$<br>
+$\displaystyle r = \frac{-63}{42} = -\frac{3}{2}$
+
+### 102)
+
+$\displaystyle -\frac{7}{6}\left(r+\frac{13}{7}\right) = -\frac{103}{30}+2r$<br>
+$\displaystyle -\frac{7}{6}r-\frac{91}{42} = -\frac{103}{30}+2r$<br>
+$\displaystyle \text{MCM} = 210$<br>
+$\displaystyle -35(7r)-5(91) = 7(-103)+210(2r)$<br>
+$\displaystyle -245r-455 = -721+420r$<br>
+$\displaystyle -245r-420r = -721+455$<br>
+$\displaystyle -665r = -266$<br>
+$\displaystyle r = \frac{-266}{-665} = \frac{2}{5}$
+
+### 103)
+
+$\displaystyle \frac{13}{7}\left(p+\frac{17}{8}\right) = \frac{23}{5}p+\frac{241}{280}$<br>
+$\displaystyle \frac{13}{7}p+\frac{221}{56} = \frac{23}{5}p+\frac{241}{280}$<br>
+$\displaystyle \text{MCM} = 280$<br>
+$\displaystyle 40(13p)+5(221) = 56(23p)+241$<br>
+$\displaystyle 520p+1105 = 1288p+241$<br>
+$\displaystyle 520p-1288p = 241-1105$<br>
+$\displaystyle -768p = -864$<br>
+$\displaystyle p = \frac{-864}{-768} = \frac{9}{8}$
+
+### 104)
+
+$\displaystyle -\frac{7}{6}n+\frac{7}{75} = -\frac{7}{5}\left(\frac{1}{2}n-\frac{2}{5}\right)$<br>
+$\displaystyle -\frac{7}{6}n+\frac{7}{75} = -\frac{7}{10}n+\frac{14}{25}$<br>
+$\displaystyle \text{MCM} = 150$<br>
+$\displaystyle -25(7n)+2(7) = 15(-7n)+6(14)$<br>
+$\displaystyle -175n+14 = -105n+84$<br>
+$\displaystyle -175n+105n = 84-14$<br>
+$\displaystyle -70n = 70$<br>
+$\displaystyle n = \frac{70}{-70} = -1$
+
+### 105)
+
+$\displaystyle \frac{1}{12}t+\frac{1}{8}t = 1$<br>
+$\displaystyle \text{MCM} = 24$<br>
+$\displaystyle 2t+3t = 24$<br>
+$\displaystyle 5t = 24$<br>
+$\displaystyle t = \frac{24}{5} = 4.8$
+
+### 106)
+
+$\displaystyle 4.95\left(\frac{1}{13}+\frac{1}{x}\right) = 1$<br>
+$\displaystyle \frac{1}{13}+\frac{1}{x} = \frac{1}{4.95}$<br>
+$\displaystyle \frac{1}{x} = 0.202-0.076$<br>
+$\displaystyle \frac{1}{x} = 0.1251$<br>
+$\displaystyle x = \frac{1}{0.1251} \approx 8.0\text{ hrs}$
+
+### 107)
+
+$\displaystyle 5.22\left(\frac{1}{15}+\frac{1}{x}\right) = 1$<br>
+$\displaystyle \frac{1}{15}+\frac{1}{x} = \frac{1}{5.22}$<br>
+$\displaystyle \frac{1}{x} = 0.1915-0.0666$<br>
+$\displaystyle \frac{1}{x} = 0.1249$<br>
+$\displaystyle x = \frac{1}{0.1249} \approx 8\text{ hrs}$
+
+### 108)
+
+$\displaystyle \frac{1}{10}t+\frac{1}{15}t = 1$<br>
+$\displaystyle \text{MCM} = 30$<br>
+$\displaystyle 3t+2t = 30$<br>
+$\displaystyle 5t = 30$<br>
+$\displaystyle t = \frac{30}{5} = 6\text{ horas}$
+
+### 109)
+
+$\displaystyle \frac{1}{9}t+\frac{1}{15}t = 1$<br>
+$\displaystyle \text{MCM} = 45$<br>
+$\displaystyle 5t+3t = 45$<br>
+$\displaystyle 8t = 45$<br>
+$\displaystyle t = \frac{45}{8} = 5.625\text{ horas}$
+
+### 110)
+
+$\displaystyle 7.74\left(\frac{1}{16}+\frac{1}{x}\right) = 1$<br>
+$\displaystyle \frac{1}{16}+\frac{1}{x} = \frac{1}{7.74}$<br>
+$\displaystyle \frac{1}{x} = \frac{1}{7.74}-\frac{1}{16}$<br>
+$\displaystyle \frac{1}{x} = 0.0667$<br>
+$\displaystyle x = \frac{1}{0.0667} \approx 15\text{ hrs}$
+
+### 111)
+
+$\displaystyle \left(\frac{1}{8}+\frac{1}{11}\right)\cdot x = 1$<br>
+$\displaystyle \left(\frac{11+8}{88}\right)\cdot x = 1$<br>
+$\displaystyle \frac{19}{88}\cdot x = 1$<br>
+$\displaystyle x = \frac{88}{19} \approx 4.63\text{ hrs}$
+
+### 112)
+
+$\displaystyle \frac{1}{x}+\frac{1}{10} = \frac{1}{5.65}$<br>
+$\displaystyle \frac{1}{x} = \frac{1}{5.65}-\frac{1}{10}$<br>
+$\displaystyle \frac{1}{x} = 0.077$<br>
+$\displaystyle x = \frac{1}{0.077} \approx 13\text{ hrs}$
+
+### 113)
+
+$\displaystyle (74\cdot 3)+(76\cdot x) = 298$<br>
+$\displaystyle 222+76x = 298$<br>
+$\displaystyle 76x = 298-222$<br>
+$\displaystyle 76x = 76$<br>
+$\displaystyle x = 1\text{ hr}$
+
+### 114)
+
+$\displaystyle 6\cdot x = 9\cdot 12$<br>
+$\displaystyle 6x = 108$<br>
+$\displaystyle x = \frac{108}{6} = 18\text{ km/h}$
+
+### 115)
+
+$\displaystyle 3\cdot x = 2\cdot 75$<br>
+$\displaystyle x = \frac{150}{3} = 50\text{ mph}$
+
+### 116)
+
+$\displaystyle 55x = 44(x+1)$<br>
+$\displaystyle 55x = 44x+44$<br>
+$\displaystyle 55x-44x = 44$<br>
+$\displaystyle 11x = 44$<br>
+$\displaystyle x = \frac{44}{11} = 4\text{ hrs}$
+
+### 117)
+
+$\displaystyle 2x+1(x-30) = 180$<br>
+$\displaystyle 2x+x-30 = 180$<br>
+$\displaystyle 2x+x = 180+30$<br>
+$\displaystyle 3x = 210$<br>
+$\displaystyle x = \frac{210}{3} = 70\text{ km/h}$
+
+### 118)
+
+$\displaystyle 11x+11(455) = 7480$<br>
+$\displaystyle 11x+5005 = 7480$<br>
+$\displaystyle 11x = 7480-5005$<br>
+$\displaystyle 11x = 2475$<br>
+$\displaystyle x = \frac{2475}{11} = 225\text{ km/h}$
+
+### 119)
+
+$\displaystyle 17x+29x = 552$<br>
+$\displaystyle 46x = 552$<br>
+$\displaystyle x = \frac{552}{46} = 12\text{ hrs}$
+
+### 120)
+
+$\displaystyle 6x = 4(x+15)$<br>
+$\displaystyle 6x = 4x+60$<br>
+$\displaystyle 6x-4x = 60$<br>
+$\displaystyle 2x = 60$<br>
+$\displaystyle x = \frac{60}{2} = 30\text{ km/h}$
+
+### 121)
+
+$\displaystyle 0.88x+1(12) = 0.96(x+12)$<br>
+$\displaystyle 0.88x+12 = 0.96x+11.52$<br>
+$\displaystyle 0.88x-0.96x = 11.52-12$<br>
+$\displaystyle x = \frac{-0.48}{-0.08} = 6\text{ libras}$
+
+### 122)
+
+$\displaystyle 7x+5(0.34) = 12(0.20)$<br>
+$\displaystyle 7x+1.7 = 2.4$<br>
+$\displaystyle 7x = 2.4-1.7$<br>
+$\displaystyle 7x = 0.7$<br>
+$\displaystyle x = \frac{0.7}{7} = 0.1\ (10\%)$
+
+### 123)
+
+$\displaystyle 2(0.17)+6x = 8(0.14)$<br>
+$\displaystyle 0.34+6x = 1.12$<br>
+$\displaystyle 6x = 1.12-0.34$<br>
+$\displaystyle 6x = 0.78$<br>
+$\displaystyle x = \frac{0.78}{6} = 0.13\ (13\%)$
+
+### 124)
+
+$\displaystyle 4(0)+0.09x = 0.05(4+x)$<br>
+$\displaystyle 0+0.09x = 0.20+0.05x$<br>
+$\displaystyle 0.09x-0.05x = 0.20$<br>
+$\displaystyle 0.04x = 0.20$<br>
+$\displaystyle x = \frac{0.20}{0.04} = 5$
+
+### 125)
+
+$\displaystyle 4x+8(1) = 12(2)$<br>
+$\displaystyle 4x+8 = 24$<br>
+$\displaystyle 4x = 24-8$<br>
+$\displaystyle 4x = 16$<br>
+$\displaystyle x = \frac{16}{4} = 4\ \text{\$ por onza}$
+
+### 126)
+
+$\displaystyle 3x+1(0) = 4(0.15)$<br>
+$\displaystyle 3x+0 = 0.60$<br>
+$\displaystyle 3x = 0.60$<br>
+$\displaystyle x = \frac{0.60}{3} = 0.20\ (20\%)$
+
+### 127)
+
+$\displaystyle 18(0.30)+12x = 30(0.38)$<br>
+$\displaystyle 5.4+12x = 11.4$<br>
+$\displaystyle 12x = 11.4-5.4$<br>
+$\displaystyle 12x = 6$<br>
+$\displaystyle x = \frac{6}{12} = 0.5\ (50\%)$
+
+### 128)
+
+$\displaystyle 0.41x+1(0.11) = 0.35(x+1)$<br>
+$\displaystyle 0.41x+0.11 = 0.35x+0.35$<br>
+$\displaystyle 0.41x-0.35x = 0.35-0.11$<br>
+$\displaystyle 0.06x = 0.24$<br>
+$\displaystyle x = \frac{0.24}{0.06} = 4\text{ pies cúbicos}$
